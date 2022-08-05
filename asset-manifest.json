@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Foodera/static/css/main.02eed6a6.css",
+    "main.js": "/Foodera/static/js/main.ff76957f.js",
+    "static/js/787.35f14ba0.chunk.js": "/Foodera/static/js/787.35f14ba0.chunk.js",
+    "static/media/about2.png": "/Foodera/static/media/about2.b810024430d376b6bd6d.png",
+    "static/media/header4.jpg": "/Foodera/static/media/header4.59bc2642688a5d6eae5f.jpg",
+    "static/media/foods.png": "/Foodera/static/media/foods.48b466c700426e1b0aa6.png",
+    "static/media/header.jpg": "/Foodera/static/media/header.12c392d279429f82935c.jpg",
+    "static/media/about1.png": "/Foodera/static/media/about1.91adf8dc0779a423e014.png",
+    "static/media/food3.jpg": "/Foodera/static/media/food3.0df4d0d0dda2d436bffc.jpg",
+    "static/media/backed.jpg": "/Foodera/static/media/backed.580213ab4b0ed0a48210.jpg",
+    "static/media/header2.jpg": "/Foodera/static/media/header2.26055482a5039f8e5ed6.jpg",
+    "static/media/header1.jpg": "/Foodera/static/media/header1.3a8b2fe5b0bcb5467b91.jpg",
+    "static/media/header3.jpg": "/Foodera/static/media/header3.59a4d0c649a9a76e13a3.jpg",
+    "static/media/girl1.jpg": "/Foodera/static/media/girl1.960ff282036e3c4e63eb.jpg",
+    "static/media/quote.jpg": "/Foodera/static/media/quote.8dac9ee9eb3e67760871.jpg",
+    "static/media/boy.jpg": "/Foodera/static/media/boy.f6e01ff2a6ae714f244b.jpg",
+    "static/media/about.png": "/Foodera/static/media/about.e134a3e3c81479f9c673.png",
+    "static/media/contact.png": "/Foodera/static/media/contact.878af65c368c9820ca8b.png",
+    "static/media/food1.jpg": "/Foodera/static/media/food1.1defe43a880022701c8d.jpg",
+    "static/media/shoppable-recipes.jpg": "/Foodera/static/media/shoppable-recipes.abe4c583cfce3b08ae43.jpg",
+    "static/media/food2.jpg": "/Foodera/static/media/food2.a567a9db1482b99c0fab.jpg",
+    "static/media/recipe-analysis.jpg": "/Foodera/static/media/recipe-analysis.3e4ee69426cb20de3075.jpg",
+    "static/media/recipe-management.jpg": "/Foodera/static/media/recipe-management.21d5210c2e5260b6bbdc.jpg",
+    "static/media/meal-planning.jpg": "/Foodera/static/media/meal-planning.00c577df20d0fa37e64f.jpg",
+    "static/media/logo.svg": "/Foodera/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Foodera/index.html",
+    "main.02eed6a6.css.map": "/Foodera/static/css/main.02eed6a6.css.map",
+    "main.ff76957f.js.map": "/Foodera/static/js/main.ff76957f.js.map",
+    "787.35f14ba0.chunk.js.map": "/Foodera/static/js/787.35f14ba0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02eed6a6.css",
+    "static/js/main.ff76957f.js"
+  ]
+}
