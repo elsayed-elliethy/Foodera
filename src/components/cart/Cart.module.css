@@ -1,0 +1,70 @@
+.cart {
+  max-width: 30rem;
+  background-color: #43121d;
+  color: white;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 20;
+  text-align: center;
+}
+
+.cart h2 {
+  font-size: 1.25rem;
+  margin: 0.5rem 0;
+}
+
+.list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0;
+  max-height: 150px;
+  overflow-y: auto;
+}
+.list li {
+  padding: 10px 20px;
+}
+
+.card {
+  margin: 1rem auto;
+  border-radius: 6px;
+  background-color: white;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+  /* position: relative;
+  z-index: 20; */
+}
+
+.actions {
+  text-align: right;
+}
+
+.actions button {
+  font: inherit;
+  cursor: pointer;
+  background-color: #e9e7ea;
+  border: 1px solid #8a2b06;
+  padding: 0.5rem 2rem;
+  border-radius: 25px;
+  margin-left: 1rem;
+}
+.actions button:hover,
+.actions button:active {
+  background-color: #5a1a01;
+  border-color: #5a1a01;
+  color: white;
+}
+
+.no-meals {
+  color: #8a2b06;
+}
+.success {
+  font-size: 20px;
+  text-align: center;
+  color: rgb(9, 79, 122);
+}
+
+.mealsUL {
+}

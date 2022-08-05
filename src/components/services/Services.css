@@ -1,0 +1,35 @@
+.services h2 {
+  color: var(--textColor);
+}
+
+.services .btn {
+  border: 2px solid var(--mainColor) !important;
+  width: 100%;
+}
+.services .btn:hover {
+  background-color: var(--mainColor) !important;
+  color: #fff;
+}
+.services .btn.active {
+  background-color: var(--mainColor) !important;
+  color: #fff;
+}
+
+.services img {
+  max-width: 100%;
+}
+
+@media (max-width: 767px) {
+  .services img {
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .services .text {
+    text-align: center;
+  }
+}
+
+.services p {
+  color: #555;
+}

@@ -1,0 +1,44 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.Navbar {
+}
+Nav {
+  background-color: #f5f7fa;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  position: fixed !important;
+  z-index: 20;
+}
+Nav a {
+  padding: 0 10px;
+  color: #ab3550 !important;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-decoration: none !important;
+}
+
+.main-nav a:hover,
+.main-nav a:active,
+.main-nav a.active {
+  color: var(--textColor) !important;
+}
+
+.navbar-brand .logo {
+  width: 90%;
+  max-width: 100%;
+}
+.cart-btn {
+  background-color: #ab3550;
+  color: #fff !important;
+  border: 3px solid #ab3550;
+}
+.cart-btn:hover {
+  background-color: transparent;
+  color: #ab3550 !important;
+  transition: 0.2s;
+}

@@ -1,0 +1,23 @@
+.numbers {
+  background-color: #ab3550;
+  padding: 30px 0;
+  text-align: center;
+  color: #fff;
+}
+.numbers span {
+  display: block;
+}
+.numbers .number {
+  font-weight: bold;
+  font-size: 30px;
+}
+.numbers h6 {
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+@media (max-width: 767px) {
+  .numbers h6 {
+    margin-bottom: 20px;
+  }
+}

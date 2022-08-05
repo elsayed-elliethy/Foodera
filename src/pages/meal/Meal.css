@@ -1,0 +1,32 @@
+.product {
+  padding-top: 130px;
+}
+
+.meal-img {
+  width: 80%;
+  max-width: 100%;
+}
+.product h2 {
+  color: var(--textColor);
+}
+.product .btn {
+  border: 2px solid var(--mainColor) !important;
+}
+.product .btn:hover {
+  background-color: var(--mainColor) !important;
+  color: #fff;
+}
+.product .btn.active {
+  background-color: var(--mainColor) !important;
+  color: #fff;
+}
+
+@media (max-width: 991px) {
+  .meal-img {
+    width: 100%;
+    max-width: 100%;
+  }
+  .image {
+    margin-bottom: 20px;
+  }
+}

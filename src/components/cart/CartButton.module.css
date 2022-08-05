@@ -1,0 +1,32 @@
+.cart-button {
+  background-color: #ab3550;
+  color: #fff !important;
+  border: 3px solid #ab3550;
+}
+
+.cart-button:hover,
+.cart-button:active {
+  background-color: transparent;
+  color: #ab3550 !important;
+  transition: 0.2s;
+}
+
+.cart-button span {
+  margin: 0 0.5rem;
+}
+
+.badge {
+  background-color: #681429;
+  border-radius: 30px;
+  padding: 0.15rem 1.25rem;
+  color: #fff;
+}
+
+@media (max-width: 767px) {
+  .cart-button {
+    padding: 0.5rem 0.3rem;
+  }
+  .badge {
+    padding: 0.15rem 0.75rem;
+  }
+}

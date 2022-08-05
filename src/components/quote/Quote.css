@@ -1,0 +1,50 @@
+.quote {
+  width: 100%;
+  /* height: 400px; */
+  background-image: url("../../assets/quote.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  text-align: center;
+}
+
+.quote h2 {
+  margin-top: 50px;
+  max-width: 80%;
+  font-size: 40px;
+  color: #a82d49;
+  /* font-weight: bold; */
+  margin-bottom: 0;
+}
+.quote p {
+  margin-top: 50px;
+  max-width: 50%;
+  color: #555;
+  line-height: 1.6;
+  font-size: 18px;
+  margin-top: 15px;
+}
+.quote a {
+  display: block;
+  margin: 20px 0;
+  text-decoration: none !important;
+  color: #000;
+}
+.quote a:hover {
+  color: #a82d49;
+}
+
+@media (max-width: 767px) {
+  .quote h2 {
+    font-size: 20px;
+  }
+  .quote p {
+    font-size: 14px;
+  }
+  .quote a {
+    font-size: 14px;
+  }
+}
