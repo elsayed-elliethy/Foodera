@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Foodera/static/css/main.02eed6a6.css",
-    "main.js": "/Foodera/static/js/main.ff76957f.js",
+    "main.js": "/Foodera/static/js/main.b281d638.js",
     "static/js/787.35f14ba0.chunk.js": "/Foodera/static/js/787.35f14ba0.chunk.js",
     "static/media/about2.png": "/Foodera/static/media/about2.b810024430d376b6bd6d.png",
     "static/media/header4.jpg": "/Foodera/static/media/header4.59bc2642688a5d6eae5f.jpg",
@@ -27,11 +27,11 @@
     "static/media/logo.svg": "/Foodera/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Foodera/index.html",
     "main.02eed6a6.css.map": "/Foodera/static/css/main.02eed6a6.css.map",
-    "main.ff76957f.js.map": "/Foodera/static/js/main.ff76957f.js.map",
+    "main.b281d638.js.map": "/Foodera/static/js/main.b281d638.js.map",
     "787.35f14ba0.chunk.js.map": "/Foodera/static/js/787.35f14ba0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02eed6a6.css",
-    "static/js/main.ff76957f.js"
+    "static/js/main.b281d638.js"
   ]
 }
